@@ -358,7 +358,9 @@ window.GUERNICA_CONTENT = {
       portfolio: 'Web personal',
       linkedin: 'LinkedIn',
       github: 'GitHub',
-      email: 'Correo electrónico'
+      email: 'Correo electrónico',
+      qr: 'Escanea este código con el móvil para abrir mi web personal.',
+      qrAlt: 'Código QR que abre mi web personal'
     },
     en: {
       pageTitle: 'Who made this puzzle',
@@ -377,7 +379,9 @@ window.GUERNICA_CONTENT = {
       portfolio: 'Portfolio',
       linkedin: 'LinkedIn',
       github: 'GitHub',
-      email: 'Email'
+      email: 'Email',
+      qr: 'Scan this code with your phone to open my portfolio.',
+      qrAlt: 'QR code that opens my portfolio'
     }
   },
 

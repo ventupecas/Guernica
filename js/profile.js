@@ -39,6 +39,7 @@
     document.title = `${PROFILE.name} · ${UI[lang].title}`;
     $$('[data-i18n]').forEach((el) => { el.textContent = UI[lang][el.dataset.i18n]; });
     $$('[data-p]').forEach((el) => { el.textContent = P[el.dataset.p]; });
+    $$('[data-p-alt]').forEach((el) => { el.alt = P[el.dataset.pAlt]; });
     $('#profile-about').innerHTML = P.about.map((p) => `<p>${rich(p)}</p>`).join('');
     $('#profile-why').innerHTML = P.why.map((p) => `<p>${rich(p)}</p>`).join('');
     $$('[data-lang]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.lang === lang)));
