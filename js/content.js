@@ -334,7 +334,7 @@ window.GUERNICA_CONTENT = {
   // Creator profile page (profile.html). EDIT ME: "about" and "why" are drafts;
   // rewrite them in your own words. Each paragraph is one string in the array.
   PROFILE: {
-    name: 'Ventura Perez Del Castillo',
+    name: 'Ventura Perez',
     links: {
       portfolio: 'https://vperez-stars.github.io/Portfolio-Site/',
       linkedin: 'https://www.linkedin.com/in/ventura-perez/',
