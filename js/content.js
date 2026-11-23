@@ -336,9 +336,9 @@ window.GUERNICA_CONTENT = {
   PROFILE: {
     name: 'Ventura Perez',
     links: {
-      portfolio: 'https://vperez-stars.github.io/Portfolio-Site/',
+      portfolio: 'https://ventupecas.github.io/Portfolio-Site/',
       linkedin: 'https://www.linkedin.com/in/ventura-perez/',
-      github: 'https://github.com/vperez-stars',
+      github: 'https://github.com/ventupecas',
       email: 'vperez@icstars.org'
     },
     es: {
